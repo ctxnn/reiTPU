@@ -22,4 +22,4 @@ the TPU includes the following computational resources:
 the heart of the tpu is the SYSTOLIC ARRAY 
 - A systolic array chains multiple ALUs together, reusing the result of reading a single register.
 
-![TPU system architecture](images/tpu-system-architecture.png)
+![TPU system architecture](../images/tpu-system-architecture.png)
